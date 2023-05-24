@@ -4,8 +4,8 @@
 }
 .menu{
     width: 100%;
-    height: 50px;
-    background: pink;
+    height: 30px;
+    background: red;
 }
 .conteudo{
     width: 100%;
@@ -13,5 +13,8 @@
 .rodape{
     width: 100%;
     text-align: center;
-    background: rgb(170, 221, 28);
+    background: orange;
+}
+.img-mobile{
+    width: 100%;
 }

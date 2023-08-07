@@ -149,6 +149,16 @@ ul{
 .geral {
     width: 100vw;
     grid-area: "geral";
+
+}
+div[class^="item- "]{
+background-color: pink;
+width: 100vw ;
+height: 200px;
+margin-top: 5px;
+}
+.info {
+    display: grid;
 }
 
 @media (min-width: 820px) {
